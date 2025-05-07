@@ -69,7 +69,7 @@ In this step, we’ll set up Jupyter Notebook to use the virtual environment (tm
   This will allow the Jupyter Notebook to recognize your virtual environment.
   
   ```bash
-  conda install jupyter
+   pip install ipykernel
   ```
 
 3. Create a Jupyter Kernel for the Virtual Environment:
