@@ -82,7 +82,7 @@ In this step, we’ll set up Jupyter Notebook to use the virtual environment (tm
 
 ## Step 5: Launching Jupyter Notebook
 
-Now that your environment is set up, you can launch Jupyter Notebook and start working with TMMax in the notebook interface.
+Now that your environment is set up, you can launch Jupyter Notebook and start working with tmmax in the notebook interface.
 
 1. Start Jupyter Notebook:
 
